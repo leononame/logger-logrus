@@ -1,0 +1,3 @@
+# Logger Logrus [![GoDoc](https://godoc.org/github.com/leononame/logger-logrus?status.svg)](https://godoc.org/github.com/leononame/logger-logrus) [![Build Status](https://cloud.drone.io/api/badges/leononame/logger-logrus/status.svg)](https://cloud.drone.io/leononame/logger-logrus) [![codecov](https://codecov.io/gh/leononame/logger-logrus/branch/master/graph/badge.svg)](https://codecov.io/gh/leononame/logger-logrus)
+
+This package contains an implementation for the [Logger](https://github.com/leononame/logger) structured logging abstraction. The implementation of this package uses logrus as structured logging backend. Other implementations and the actual docs can be found on the original [Logger](https://github.com/leononame/logger) package.
